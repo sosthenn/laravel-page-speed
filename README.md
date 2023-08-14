@@ -25,10 +25,6 @@ You can install the package via composer:
 composer require renatomarinho/laravel-page-speed
 ```
 
-This package supports Laravel [Package Discovery][link-package-discovery].
-
-### Publish configuration file
-
  `php artisan vendor:publish --provider="RenatoMarinho\LaravelPageSpeed\ServiceProvider"`
 
 ## Do not forget to register middlewares
