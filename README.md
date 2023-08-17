@@ -2,7 +2,6 @@
     <img width="400" src="https://raw.githubusercontent.com/renatomarinho/laravel-page-speed/master/art/logo.png" alt="Laravel Page Speed logo" />
 </p>
 
-<p align="center">
 <a href="https://travis-ci.org/renatomarinho/laravel-page-speed"><img src="https://travis-ci.org/renatomarinho/laravel-page-speed.svg?branch=master" alt="Build Status"></a>
 <a href="https://packagist.org/packages/renatomarinho/laravel-page-speed"><img src="https://poser.pugx.org/renatomarinho/laravel-page-speed/version" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/renatomarinho/laravel-page-speed"><img src="https://poser.pugx.org/renatomarinho/laravel-page-speed/downloads" alt="Total Downloads"></a>
