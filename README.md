@@ -11,7 +11,6 @@ Simple package to minify HTML output on demand which results in a 35%+ optimizat
 
 ## Installation
 
-> **Requires:**
 - **[PHP 7.2.5+](https://php.net/releases/)**
 - **[Laravel 6.0+](https://github.com/laravel/laravel)**
 
