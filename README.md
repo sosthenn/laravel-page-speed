@@ -14,8 +14,6 @@ Simple package to minify HTML output on demand which results in a 35%+ optimizat
 - **[Laravel 6.0+](https://github.com/laravel/laravel)**
 
 You can install the package via composer:
-
-```sh
 composer require renatomarinho/laravel-page-speed
 ```
 
